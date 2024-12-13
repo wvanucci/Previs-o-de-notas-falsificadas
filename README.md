@@ -9,4 +9,4 @@ Queremos prever qual nota é falsificada ou genuína usando os bancos de recurso
 
 [Analíse inicial de Cluster](https://github.com/wvanucci/Previs-o-de-notas-falsificadas/blob/main/Come%C3%A7ando_zero__projeto.ipynb)
 
-[Projeto final] (https://github.com/wvanucci/Previs-o-de-notas-falsificadas/blob/main/Projeto%20final.ipynb)
+[Projeto final](https://github.com/wvanucci/Previs-o-de-notas-falsificadas/blob/main/Projeto%20final.ipynb)
